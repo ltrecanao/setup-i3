@@ -41,7 +41,7 @@ setup-i3/
 ### 1. Clonar el repo
 
 ```bash
-git clone https://github.com/TU_USUARIO/setup-i3.git
+git clone https://github.com/ltrecanao/setup-i3.git
 cd setup-i3
 ```
 
