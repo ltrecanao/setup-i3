@@ -1,16 +1,15 @@
 # setup-i3
 
-Setup minimalista para i3 con tema **Aura** — polybar, alacritty, picom, rofi, dunst y ranger.
+Setup minimalista para i3 con tema **Aura** pensado para **Debian 13** (Trixie) — polybar, alacritty, picom, rofi, dunst y ranger.
 
 ![i3](https://img.shields.io/badge/WM-i3-blue) ![Theme](https://img.shields.io/badge/theme-Aura-7c3aed) ![Terminal](https://img.shields.io/badge/terminal-alacritty-yellow) ![Bar](https://img.shields.io/badge/bar-polybar-orange)
 
 ---
 
-## Atajos de teclado
+## Requisitos
 
-![i3 Aura Keybindings](docs/i3-aura-keybindings.png)
-
----
+- Debian 13 (probado en instalación mínima, sin entorno de escritorio).
+- Acceso a `sudo` para instalar paquetes.
 
 ## Estructura
 
